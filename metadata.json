@@ -1,0 +1,6 @@
+{
+  "name": "Nextstep - Tuyển Dụng & Phát Triển Sự Nghiệp Thông Minh",
+  "description": "Nền tảng tuyển dụng thông minh Công ty Cổ phần Nextstep. Kết nối nhân tài với cơ hội nghề nghiệp hàng đầu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
